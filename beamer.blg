@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: beamer.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 176 of file beamer.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 177 of file beamer.aux
+ : \bibdata
+ :         {beamer}
+I'm skipping whatever remains of this command
+Database file #1: beamer.bib
+Repeated entry---line 224 of file beamer.bib
+ : @article{Dans2007
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 300 of file beamer.bib
+ : @article{Braun
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 340 of file beamer.bib
+ : @article{Braun
+ :               ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Braun
+Warning--empty year in Braun
+Warning--empty journal in Dans2007
+Warning--empty journal in Gensollen2014
+Warning--empty journal in Kota2011
+Warning--there's a number but no volume in Kota2011
+Warning--empty journal in Lancichinetti
+Warning--empty year in Lancichinetti
+Warning--empty journal in Lee2010
+Warning--empty journal in Mantegna1999
+You've used 11 entries,
+            2118 wiz_defined-function locations,
+            570 strings with 5826 characters,
+and the built_in function-call counts, 3535 in all, are:
+= -- 337
+> -- 185
+< -- 2
++ -- 73
+- -- 62
+* -- 271
+:= -- 615
+add.period$ -- 32
+call.type$ -- 11
+change.case$ -- 64
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 125
+empty$ -- 248
+format.name$ -- 62
+if$ -- 699
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 57
+num.names$ -- 22
+pop$ -- 68
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 84
+stack$ -- 0
+substring$ -- 192
+swap$ -- 12
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 10
+while$ -- 36
+width$ -- 13
+write$ -- 112
+(There were 5 error messages)

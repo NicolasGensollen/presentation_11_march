@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{Braun}
+Martin Braun.
+\newblock {Virtual Power Plants in Real Applications Pilot Demonstrations in
+  Spain and England as part of the European project FENIX}.
+\newblock 49(561).
+
+\bibitem{Budischak2012}
+Cory Budischak, DeAnna Sewell, Heather Thomson, Leon Mach, Dana~E. Veron, and
+  Willett Kempton.
+\newblock {Cost-Minimized Combinations of Wind Power, Solar Power and
+  Electrochemical Storage, Powering the Grid up to 99.9\% of the Time}.
+\newblock {\em Journal of Power Sources}, 225:60--74, October 2012.
+
+\bibitem{Dans2007}
+G~Dans and Forest Science.
+\newblock {Rayonnement solaire}.
+\newblock 360, 2007.
+
+\bibitem{Garas2008}
+a.~Garas, P.~Argyrakis, and S.~Havlin.
+\newblock {The structural role of weak and strong links in a financial market
+  network}.
+\newblock {\em The European Physical Journal B}, 63(2):265--271, June 2008.
+
+\bibitem{Gensollen2014}
+Nicolas Gensollen, Vincent Gauthier, Michel Marot, and Monique Becker.
+\newblock {Coalition Formation Algorithm of Prosumers in a Smart Grid
+  Environment}.
+\newblock page~6, October 2014.
+
+\bibitem{Kota2011}
+Ramachandra Kota, Alex Rogers, and Nicholas~R Jennings.
+\newblock {Cooperatives of Distributed Energy Resources for Efficient Virtual
+  Power Plants}.
+\newblock (Aamas):787--794, 2011.
+
+\bibitem{Lancichinetti}
+Andrea Lancichinetti.
+\newblock {Detecting the overlapping and hierarchical community structure in
+  complex networks}.
+
+\bibitem{Lee2010}
+Conrad Lee, Fergal Reid, Aaron Mcdaid, and Neil Hurley.
+\newblock {Detecting Highly Overlapping Community Structure by Greedy Clique
+  Expansion}.
+\newblock 10, 2010.
+
+\bibitem{Mantegna1999}
+R~N Mantegna.
+\newblock {P HYSICAL J OURNAL B}.
+\newblock 197:193--197, 1999.
+
+\bibitem{Onnela2004}
+J.-P. Onnela, K.~Kaski, and J.~Kertesz.
+\newblock {Clustering and information in correlation based financial networks}.
+\newblock {\em The European Physical Journal B - Condensed Matter},
+  38(2):353--362, March 2004.
+
+\bibitem{Saad2011}
+Walid Saad, Zhu Han, and H.~Vincent Poor.
+\newblock {Coalitional Game Theory for Cooperative Micro-Grid Distribution
+  Networks}.
+\newblock {\em 2011 IEEE International Conference on Communications Workshops
+  (ICC)}, pages 1--5, June 2011.
+
+\end{thebibliography}

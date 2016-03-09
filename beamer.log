@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  3 MAR 2016 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  9 MAR 2016 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1528,6 +1528,210 @@ Package: media9 2015/08/18 v0.58 acrobat-9/X compatible media
 . Defining command \mediabutton with sig. 'O{}m' on line 2892.
 .................................................
 )
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2015/04/19 v3.0 programmable bibliographies (PK/JW/AB)
+
+
+Package biblatex Warning: No "backend" specified, using Biber backend.
+(biblatex)                To use BibTeX, load biblatex with 
+(biblatex)                the "backend=bibtex" option.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex2.sty
+Package: biblatex2 2015/04/19 v3.0 programmable bibliographies (biber) (PK/JW/A
+B)
+
+(c:/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count346
+
+(c:/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(c:/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count347
+\c@listtotal=\count348
+\c@listcount=\count349
+\c@liststart=\count350
+\c@liststop=\count351
+\c@citecount=\count352
+\c@citetotal=\count353
+\c@multicitecount=\count354
+\c@multicitetotal=\count355
+\c@instcount=\count356
+\c@maxnames=\count357
+\c@minnames=\count358
+\c@maxitems=\count359
+\c@minitems=\count360
+\c@citecounter=\count361
+\c@savedcitecounter=\count362
+\c@uniquelist=\count363
+\c@uniquename=\count364
+\c@refsection=\count365
+\c@refsegment=\count366
+\c@maxextratitle=\count367
+\c@maxextratitleyear=\count368
+\c@maxextrayear=\count369
+\c@maxextraalpha=\count370
+\c@abbrvpenalty=\count371
+\c@highnamepenalty=\count372
+\c@lownamepenalty=\count373
+\c@maxparens=\count374
+\c@parenlevel=\count375
+\blx@tempcnta=\count376
+\blx@tempcntb=\count377
+\blx@tempcntc=\count378
+\blx@maxsection=\count379
+\blx@maxsegment@0=\count380
+\blx@notetype=\count381
+\blx@parenlevel@text=\count382
+\blx@parenlevel@foot=\count383
+\blx@sectionciteorder@0=\count384
+\labelnumberwidth=\skip71
+\labelalphawidth=\skip72
+\biblabelsep=\skip73
+\bibitemsep=\skip74
+\bibnamesep=\skip75
+\bibinitsep=\skip76
+\bibparsep=\skip77
+\bibhang=\skip78
+\blx@bcfin=\read2
+\blx@bcfout=\write5
+\c@mincomprange=\count385
+\c@maxcomprange=\count386
+\c@mincompwidth=\count387
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authortitle.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count388
+\c@savedafterword=\count389
+\c@annotator=\count390
+\c@savedannotator=\count391
+\c@author=\count392
+\c@savedauthor=\count393
+\c@bookauthor=\count394
+\c@savedbookauthor=\count395
+\c@commentator=\count396
+\c@savedcommentator=\count397
+\c@editor=\count398
+\c@savededitor=\count399
+\c@editora=\count400
+\c@savededitora=\count401
+\c@editorb=\count402
+\c@savededitorb=\count403
+\c@editorc=\count404
+\c@savededitorc=\count405
+\c@foreword=\count406
+\c@savedforeword=\count407
+\c@holder=\count408
+\c@savedholder=\count409
+\c@introduction=\count410
+\c@savedintroduction=\count411
+\c@namea=\count412
+\c@savednamea=\count413
+\c@nameb=\count414
+\c@savednameb=\count415
+\c@namec=\count416
+\c@savednamec=\count417
+\c@translator=\count418
+\c@savedtranslator=\count419
+\c@shortauthor=\count420
+\c@savedshortauthor=\count421
+\c@shorteditor=\count422
+\c@savedshorteditor=\count423
+\c@labelname=\count424
+\c@savedlabelname=\count425
+\c@institution=\count426
+\c@savedinstitution=\count427
+\c@lista=\count428
+\c@savedlista=\count429
+\c@listb=\count430
+\c@savedlistb=\count431
+\c@listc=\count432
+\c@savedlistc=\count433
+\c@listd=\count434
+\c@savedlistd=\count435
+\c@liste=\count436
+\c@savedliste=\count437
+\c@listf=\count438
+\c@savedlistf=\count439
+\c@location=\count440
+\c@savedlocation=\count441
+\c@organization=\count442
+\c@savedorganization=\count443
+\c@origlocation=\count444
+\c@savedoriglocation=\count445
+\c@origpublisher=\count446
+\c@savedorigpublisher=\count447
+\c@publisher=\count448
+\c@savedpublisher=\count449
+\c@language=\count450
+\c@savedlanguage=\count451
+\c@pageref=\count452
+\c@savedpageref=\count453
+\shorthandwidth=\skip79
+\shortjournalwidth=\skip80
+\shortserieswidth=\skip81
+\shorttitlewidth=\skip82
+\shortauthorwidth=\skip83
+\shorteditorwidth=\skip84
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count454
+\c@textcitetotal=\count455
+\c@textcitemaxnames=\count456
+\c@biburlnumpenalty=\count457
+\c@biburlucpenalty=\count458
+\c@biburllcpenalty=\count459
+\c@smartand=\count460
+)
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count461
+\c@bbx:relatedtotal=\count462
+))
+Package biblatex Info: Trying to load citation style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.cbx' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
+File: authortitle.cbx 2015/04/19 v3.0 biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
 (c:/texlive/2015/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeBoadilla.s
 ty
 Package: beamerthemeBoadilla 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -1572,23 +1776,39 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (c:/texlive/2015/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemeorchi
 d.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)) (./beamer.aux)
+))
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+ (c:/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/french.lbx
+File: french.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+)
+
+Package biblatex Warning: Patching footnotes failed.
+(biblatex)                Footnote detection will not work.
+
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count463
+\@quotereset=\count464
+(./beamer.aux)
 \openout1 = `beamer.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1626,16 +1846,16 @@ LaTeX Font Info:    ... okay on input line 57.
 
 (c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count346
+\scratchcounter=\count465
 \scratchdimen=\dimen312
 \scratchbox=\box121
-\nofMPsegments=\count347
-\nofMParguments=\count348
+\nofMPsegments=\count466
+\nofMParguments=\count467
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count349
+\MPscratchCnt=\count468
 \MPscratchDim=\dimen313
-\MPnumerator=\count350
-\makeMPintoPDFobject=\count351
+\MPnumerator=\count469
+\makeMPintoPDFobject=\count470
 \everyMPtoPDFconversion=\toks48
 ) (c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1654,7 +1874,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box122
-Package hyperref Info: Link coloring OFF on input line 57.
+Package hyperref Info: Link coloring OFF on input line 60.
 
 (c:/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1662,62 +1882,62 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (c:/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count352
+\c@section@level=\count471
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 (./beamer.out) (./beamer.out)
-\@outlinefile=\write5
-\openout5 = `beamer.out'.
+\@outlinefile=\write6
+\openout6 = `beamer.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 57.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 57.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 57.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 57.
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 60.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 57.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 57.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 57.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 57.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 57.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 57.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 57.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 57.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 60.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 57.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 57.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 57.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 57.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 57.
+(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 57.
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 57.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 57.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 60.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 57.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 60.
 
 (c:/texlive/2015/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
 dictionary/translator-basic-dictionary-English.dict
@@ -1743,73 +1963,83 @@ Dictionary: translator-numbers-dictionary, Language: English
 m-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 57.
+LaTeX Info: Redefining \includegraphics on input line 60.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \degres on input line 57.
-LaTeX Info: Redefining \dots on input line 57.
-LaTeX Info: Redefining \up on input line 57.
- (./beamer.nav)
-(./beamer.bbl)
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 63.
+LaTeX Info: Redefining \degres on input line 60.
+LaTeX Info: Redefining \dots on input line 60.
+LaTeX Info: Redefining \up on input line 60.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `beamer.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'beamer.bbl' found.
+ (./beamer.bbl)
+Package biblatex Info: Reference section=0 on input line 60.
+Package biblatex Info: Reference segment=0 on input line 60.
+
+(./beamer.nav)
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 66.
  (c:/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 88.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 91.
 
 
 (c:/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 88.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 91.
 
 (c:/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 88.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 91.
 
 
 (c:/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 88.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 91.
 
 
 (c:/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 88.
+(Font)              <10.95> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 88.
+(Font)              <8> on input line 91.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 88.
-LaTeX Font Info:    Try loading font information for U+msa on input line 88.
+(Font)              <6> on input line 91.
+LaTeX Font Info:    Try loading font information for U+msa on input line 91.
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 88.
+LaTeX Font Info:    Try loading font information for U+msb on input line 91.
 
 (c:/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 88.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
 
-<smart_grid.png, id=113, 508.14844pt x 513.41812pt>
+<smart_grid.png, id=102, 508.14844pt x 513.41812pt>
 File: smart_grid.png Graphic file (type png)
  <use smart_grid.png>
-Package pdftex.def Info: smart_grid.png used on input line 88.
+Package pdftex.def Info: smart_grid.png used on input line 91.
 (pdftex.def)             Requested size: 152.4457pt x 154.02661pt.
 
-Overfull \hbox (15.47366pt too wide) in paragraph at lines 88--88
+Overfull \hbox (15.47366pt too wide) in paragraph at lines 91--91
 [][]  
  []
 
@@ -1819,164 +2049,194 @@ Overfull \hbox (15.47366pt too wide) in paragraph at lines 88--88
 
 ] [4
 
-] [5
+] (./beamer.toc) [5
 
 ] [6
 
-] [7
+]
+
+LaTeX Warning: Citation 'Dorfler2013' on page 7 undefined on input line 154.
+
+[7
 
 ]
-Overfull \vbox (14.87793pt too high) detected at line 172
+Overfull \vbox (14.87793pt too high) detected at line 171
  []
 
 [8
 
-] <line.png, id=339, 390.86024pt x 140.9265pt>
+] <line.png, id=335, 390.86024pt x 140.9265pt>
 File: line.png Graphic file (type png)
  <use line.png>
-Package pdftex.def Info: line.png used on input line 207.
+Package pdftex.def Info: line.png used on input line 205.
 (pdftex.def)             Requested size: 175.88548pt x 63.41634pt.
 
-Overfull \hbox (21.79065pt too wide) in paragraph at lines 207--207
+Overfull \hbox (21.79065pt too wide) in paragraph at lines 205--205
 [][]  
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 207.
+(Font)              <10> on input line 205.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 207.
+(Font)              <7> on input line 205.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 207.
+(Font)              <5> on input line 205.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 207.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 205.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 207.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 205.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 207.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 205.
+
+LaTeX Warning: Citation 'Filatrella2008' on page 9 undefined on input line 205.
+
+
 [9
 
  <./line.png>] [10
 
-] [11
+] (./beamer.toc) [11
 
-] <control.png, id=420, 355.92975pt x 110.21175pt>
+]
+<control.png, id=421, 355.92975pt x 110.21175pt>
 File: control.png Graphic file (type png)
-
-<use control.png>
-Package pdftex.def Info: control.png used on input line 282.
+ <use control.png>
+Package pdftex.def Info: control.png used on input line 277.
 (pdftex.def)             Requested size: 195.76196pt x 60.61664pt.
- <control2.png, id=421, 327.02174pt x 124.0635pt>
-File: control2.png Graphic file (type png)
 
-<use control2.png>
-Package pdftex.def Info: control2.png used on input line 282.
+<control2.png, id=422, 327.02174pt x 124.0635pt>
+File: control2.png Graphic file (type png)
+ <use control2.png>
+Package pdftex.def Info: control2.png used on input line 277.
 (pdftex.def)             Requested size: 179.8625pt x 68.23512pt.
 
-Overfull \hbox (8.64485pt too wide) in paragraph at lines 282--282
+Overfull \hbox (8.64485pt too wide) in paragraph at lines 277--277
 [][]  
  []
+
+
+LaTeX Warning: Citation 'Liu2015' on page 12 undefined on input line 277.
 
 [12
 
  <./control.png> <./control2.png>]
-<trajectories.png, id=448, 339.669pt x 277.035pt>
+<trajectories.png, id=449, 339.669pt x 277.035pt>
 File: trajectories.png Graphic file (type png)
  <use trajectories.png>
-Package pdftex.def Info: trajectories.png used on input line 308.
+Package pdftex.def Info: trajectories.png used on input line 303.
 (pdftex.def)             Requested size: 101.90147pt x 83.11113pt.
+
+
+LaTeX Warning: Citation 'Summers2014' on page 13 undefined on input line 303.
 
 [13
 
  <./trajectories.png>] [14
 
-] [15
+] (./beamer.toc) [15
 
 ]
-<greedy.png, id=532, 232.4685pt x 128.8815pt>
+<greedy.png, id=538, 232.4685pt x 128.8815pt>
 File: greedy.png Graphic file (type png)
  <use greedy.png>
-Package pdftex.def Info: greedy.png used on input line 360.
+Package pdftex.def Info: greedy.png used on input line 352.
 (pdftex.def)             Requested size: 116.23396pt x 64.44058pt.
 
-<figure_1.jpg, id=533, 597.432pt x 845.0772pt>
+<figure_1.jpg, id=539, 597.432pt x 845.0772pt>
 File: figure_1.jpg Graphic file (type jpg)
  <use figure_1.jpg>
-Package pdftex.def Info: figure_1.jpg used on input line 360.
+Package pdftex.def Info: figure_1.jpg used on input line 352.
 (pdftex.def)             Requested size: 149.35764pt x 211.26878pt.
 
-Overfull \hbox (12.3856pt too wide) in paragraph at lines 360--360
+Overfull \hbox (12.3856pt too wide) in paragraph at lines 352--352
  [] 
  []
 
 
-Overfull \vbox (1.04305pt too high) detected at line 360
+Overfull \vbox (1.04305pt too high) detected at line 352
  []
 
 [16
 
- <./greedy.png> <./figure_1.jpg>] [17
+ <./greedy.png> <./figure_1.jpg>]
 
-] [18
+LaTeX Warning: Citation 'Summers2014' on page 17 undefined on input line 371.
 
-]
-<figure_2.pdf, id=611, 722.7pt x 433.62pt>
+
+LaTeX Warning: Citation 'Krause2014' on page 17 undefined on input line 371.
+
+[17
+
+] (./beamer.toc) [18
+
+] <figure_2.pdf, id=622, 722.7pt x 433.62pt>
 File: figure_2.pdf Graphic file (type pdf)
- <use figure_2.pdf>
-Package pdftex.def Info: figure_2.pdf used on input line 412.
+
+<use figure_2.pdf>
+Package pdftex.def Info: figure_2.pdf used on input line 404.
 (pdftex.def)             Requested size: 216.81166pt x 130.087pt.
 
-Overfull \hbox (11.34839pt too wide) in paragraph at lines 412--412
+Overfull \hbox (11.34839pt too wide) in paragraph at lines 404--404
 [][]  
  []
 
 [19
 
- <./figure_2.pdf>] <figure_3.pdf, id=679, 722.7pt x 722.7pt>
-File: figure_3.pdf Graphic file (type pdf)
+ <./figure_2.pdf>] <figure_3.png, id=690, 722.7pt x 722.7pt>
+File: figure_3.png Graphic file (type png)
 
-<use figure_3.pdf>
-Package pdftex.def Info: figure_3.pdf used on input line 430.
+<use figure_3.png>
+Package pdftex.def Info: figure_3.png used on input line 422.
 (pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
 
-Overfull \hbox (11.34839pt too wide) in paragraph at lines 430--430
+Overfull \hbox (11.34839pt too wide) in paragraph at lines 422--422
 [][]  
  []
 
 [20
 
- <./figure_3.pdf>] <figure_4.pdf, id=759, 1084.05pt x 578.16pt>
+ <./figure_3.png>] <figure_4.pdf, id=718, 1084.05pt x 578.16pt>
 File: figure_4.pdf Graphic file (type pdf)
 
 <use figure_4.pdf>
-Package pdftex.def Info: figure_4.pdf used on input line 441.
+Package pdftex.def Info: figure_4.pdf used on input line 433.
 (pdftex.def)             Requested size: 325.21751pt x 173.44933pt.
  [21
 
  <./figure_4.pdf>]
-<figure_7.pdf, id=826, 722.7pt x 433.62pt>
+<figure_7.pdf, id=785, 722.7pt x 433.62pt>
 File: figure_7.pdf Graphic file (type pdf)
  <use figure_7.pdf>
-Package pdftex.def Info: figure_7.pdf used on input line 454.
+Package pdftex.def Info: figure_7.pdf used on input line 446.
 (pdftex.def)             Requested size: 216.81166pt x 130.087pt.
  [22
 
- <./figure_7.pdf>] <power_grid.pdf, id=895, 1084.05pt x 1084.05pt>
+ <./figure_7.pdf>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 454.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 454.
+
+
+LaTeX Warning: Citation 'jensen_2015_35177' on page 23 undefined on input line 
+454.
+
+<power_grid.pdf, id=855, 1084.05pt x 1084.05pt>
 File: power_grid.pdf Graphic file (type pdf)
  <use power_grid.pdf>
-Package pdftex.def Info: power_grid.pdf used on input line 462.
+Package pdftex.def Info: power_grid.pdf used on input line 454.
 (pdftex.def)             Requested size: 178.86053pt x 178.86053pt.
 
-<figs2.pdf, id=896, 722.7pt x 578.16pt>
+<figs2.pdf, id=856, 722.7pt x 578.16pt>
 File: figs2.pdf Graphic file (type pdf)
  <use figs2.pdf>
-Package pdftex.def Info: figs2.pdf used on input line 462.
+Package pdftex.def Info: figs2.pdf used on input line 454.
 (pdftex.def)             Requested size: 187.89757pt x 150.31805pt.
 
-Overfull \hbox (24.32278pt too wide) in paragraph at lines 462--462
+Overfull \hbox (24.32278pt too wide) in paragraph at lines 454--454
 [][]  
  []
 
-Package atenddvi Info: Last page = 23.
 [23
 
  <./power_grid.pdf> <./figs2.pdf
@@ -1984,14 +2244,18 @@ Package atenddvi Info: Last page = 23.
 pdfTeX warning: pdflatex.exe (file ./figs2.pdf): PDF inclusion: multiple pdfs w
 ith page group included in a single page
 >]
-\tf@nav=\write6
-\openout6 = `beamer.nav'.
+Package atenddvi Info: Last page = 24.
+ [24
 
-\tf@toc=\write7
-\openout7 = `beamer.toc'.
+]
+\tf@nav=\write7
+\openout7 = `beamer.nav'.
 
-\tf@snm=\write8
-\openout8 = `beamer.snm'.
+\tf@toc=\write8
+\openout8 = `beamer.toc'.
+
+\tf@snm=\write9
+\openout9 = `beamer.snm'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 464.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 464.
@@ -2000,39 +2264,51 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 464.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 464.
 Package rerunfilecheck Info: File `beamer.out' has not changed.
 (rerunfilecheck)             Checksum: AC3591B6B5B657DCEC8EDB2302C5574E;240.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                beamer
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'beamer.run.xml'.
+\openout1 = `beamer.run.xml'.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 464.
  ) 
 Here is how much of TeX's memory you used:
- 34417 strings out of 493054
- 703659 string characters out of 6138326
- 791458 words of memory out of 5000000
- 37183 multiletter control sequences out of 15000+600000
- 76425 words of font info for 67 fonts, out of 8000000 for 9000
+ 39350 strings out of 493054
+ 794060 string characters out of 6138326
+ 1227293 words of memory out of 5000000
+ 42066 multiletter control sequences out of 15000+600000
+ 83009 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,78p,10368b,755s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,16n,78p,10349b,2130s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2015
 /texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2015/texmf-dist/fonts/
-enc/dvips/lm/lm-rm.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex
-.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2015/
+enc/dvips/lm/lm-ec.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2015/
 texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2015/texmf-dist/fonts/t
 ype1/public/lm/lmmi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmm
 i5.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><c:/texlive/
 2015/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2015/texmf-dist/fon
 ts/type1/public/lm/lmmi8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/
 lmss10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss12.pfb><c:/tex
-live/2015/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2015/texmf-di
-st/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publ
-ic/lm/lmssbx10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.pf
-b><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso8.pfb><c:/texlive/2015
-/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/
-type1/public/lm/lmsy6.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lms
-y7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/
-2015/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2015/texmf-dist/fon
-ts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on beamer.pdf (23 pages, 2554991 bytes).
+live/2015/texmf-dist/fonts/type1/public/lm/lmss8.pfb><c:/texlive/2015/texmf-dis
+t/fonts/type1/public/lm/lmss9.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publi
+c/lm/lmssbx10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
+><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso8.pfb><c:/texlive/2015/
+texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/t
+ype1/public/lm/lmsy6.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy
+7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2
+015/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2015/texmf-dist/font
+s/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on beamer.pdf (24 pages, 2522362 bytes).
 PDF statistics:
- 1089 PDF objects out of 1200 (max. 8388607)
- 802 compressed objects within 9 object streams
- 63 named destinations out of 1000 (max. 500000)
- 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1072 PDF objects out of 1200 (max. 8388607)
+ 817 compressed objects within 9 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 352 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,7 +5,7 @@ import networkx as nx
 import random
 
 
-K = 25. # coupling strength
+K = 5. # coupling strength
 Dt = 0.1 # Delta t
 
 

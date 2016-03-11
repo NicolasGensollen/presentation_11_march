@@ -43,7 +43,7 @@
 \usetheme[height=7mm]{Rochester}
 
 \title{Control of prosumer Networks}
-\author[N. Gensollen]{\textbf{Nicolas Gensollen}, Vincent Gauthier, Monique Becker, Micher Marot}
+\author[N. Gensollen]{\textbf{Nicolas Gensollen}, Vincent Gauthier, Monique Becker, Michel Marot}
 \institute[TSP]{
   CNRS SAMOVAR, Telecom SudParis\\
   Institut Mines\-Telecom\\[1ex]
@@ -80,8 +80,8 @@
 				\item Smart grid : new and cross disciplines 
 				\item Complex system approach of prosumer managment in the smart grid
 				\item Prosumer = PROducer + conSUMER
-				\item Chapter 1 : Forming stable aggregations of prosumers for energy markets
-				\item Chapter 2 : Control of prosumer networks
+				%\item Chapter 1 : Forming stable aggregations of prosumers for energy markets
+				%\item Chapter 2 : Control of prosumer networks
 			\end{itemize}
 		\end{column}
 		\begin{column}{.4\textwidth}
@@ -90,33 +90,67 @@
 	\end{columns}
 \end{frame}
 
+\begin{frame}
+	\frametitle{Smart Grid as a complex system}
+	
+	\begin{columns}
+		\begin{column}{.5\linewidth}
+			\begin{itemize}
+				\item Multiple layers
+				\item Decentralized production
+				\item Extensive use of renewables
+				\item Stochasticity
+				\item Use of different storage technologies
+				\item Electric vehicles
+				\item Complex applications :
+				\begin{itemize}
+					\item Dynamic pricing
+					\item Demand Side Managment
+					\item V2G...
+				\end{itemize}
+			\end{itemize}		
+		\end{column}
+		\begin{column}{.5\linewidth}		
+			\begin{figure}
+				\includegraphics[scale=2]{smart_grid_3}
+			\end{figure}
+		\end{column}
+	\end{columns}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Scenario}
+	
+	\begin{columns}
+		\begin{column}{.4\linewidth}
+			\begin{scriptsize}
+			\begin{itemize}
+				\item Smart grid with decentralized production
+				\item Production and Consumption are stochastic
+				\item Generators and loads are not fixed
+				\item Synchronization at $ \Omega=50Hz $
+				\item Production / Consumption imbalance ==> desynchronization
+				\item Restaure synchrony by injecting or withdrawing power from the grid
+				\item Use of storage (fixed, V2G)
+				\item How to place these elements ?
+			\end{itemize}
+			\end{scriptsize}
+		\end{column}
+		\begin{column}{.6\linewidth}
+			\begin{figure}
+				\includegraphics[scale=.3]{prosumer.jpg}
+			\end{figure}
+		\end{column}
+	\end{columns}
+\end{frame}
 
 \begin{frame}
 	\frametitle{Outline}
 	\tableofcontents
 \end{frame}
 
-\section{Scenario}
-\begin{frame}
-	\frametitle{Scenario}
-	
-	\begin{itemize}
-		\item Prosumers use renewables
-		\item Production and Consumption are stochastic and succeptible to change
-		\item Generators and loads are not fixed
-		\item Synchronization to $ \Omega=50Hz $ is necessary for stability
-		\item Production / Consumption imbalance ==> desynchronization
-		\item Restaure synchrony by injecting or withdrawing power from the grid
-		\item Use of storage (fixed, V2G)
-		\item How to place these elements ?
-	\end{itemize}
-\end{frame}
-
 
 \section{Kuramoto Model}
-\begin{frame}
-	\tableofcontents[currentsection]
-\end{frame}
 
 \begin{frame}
 	\frametitle{Simple Kuramoto Model}
@@ -153,27 +187,42 @@
 	\end{itemize}
 \end{frame}
 
+%\begin{frame}
+%	\frametitle{Synchronization in Kuramoto Model}
+%	
+%\begin{center}
+%\includemedia[
+%  width=\textwidth,height=.7\textwidth,
+%  activate=pageopen,
+%  flashvars={
+%    modestbranding=1 % no YT logo in control bar
+%   &autohide=1       % controlbar autohide
+%   &showinfo=0       % no title and other info before start
+%  }
+%]{}{http://www.youtube.com/v/WO793FIkOPM?rel=0}   % Flash file
+%\end{center}
+%
+%\end{frame}
+
 \begin{frame}
 	\frametitle{Synchronization in Kuramoto Model}
-	
-\begin{center}
-\includemedia[
-  width=\textwidth,height=.7\textwidth,
-  activate=pageopen,
-  flashvars={
-    modestbranding=1 % no YT logo in control bar
-   &autohide=1       % controlbar autohide
-   &showinfo=0       % no title and other info before start
-  }
-]{}{http://www.youtube.com/v/WO793FIkOPM?rel=0}   % Flash file
-\end{center}
+
+	\begin{center}
+		\includemedia[
+  			width=\linewidth,
+  			height=0.8\linewidth,
+  			activate=pageopen,
+ 			addresource=no_sync_2.MP4,
+  			flashvars={source=no_sync_2.MP4}
+		]{}{VPlayer.swf}
+	\end{center}
 
 \end{frame}
 
 \begin{frame}
 	\frametitle{Model power grid with Kuramoto}
 	
-	\begin{small}
+	\begin{scriptsize}
 	\begin{columns}
 		\begin{column}{.45\textwidth}
 			\includegraphics[scale=.45]{line}
@@ -199,47 +248,49 @@
 				\item $ K_{ij} = \frac{P_{ij}^{MAX}}{I\Omega} $ : coupling
 				\item $ \psi_i = \left[ \frac{P_{S,i}}{I\Omega} - \frac{K_D\Omega}{I} \right] $ : power distribution
 			\end{itemize} 
-		
+		\item Small angle differences : $sin(\theta_j - \theta_i) \sim \theta_j - \theta_i $
+		\item Dynamics can be written in matrix form : $Y(t+\Delta t) = A Y(t)$
 	\end{itemize}
-	\end{small}
+	
+	\end{scriptsize}
 \end{frame}
 
-\begin{frame}
-	\frametitle{In matrix form}
-	\begin{small}
-	\begin{itemize}
-		\item Small angle differences : $sin(\theta_j - \theta_i) \sim \theta_j - \theta_i $
-		\item Dynamics can be written in matrix form :
-	\end{itemize}
-	\end{small}
-	\[ \left( \begin{array}{ccc}
-\theta_1(t+\Delta t) \\
-\theta_2(t+\Delta t) \\
-\vdots \\
-\theta_N(t+\Delta t) \\
-\dot{\theta}_1(t+\Delta t) \\
-\dot{\theta}_2(t+\Delta t) \\
-\vdots \\
-\dot{\theta}_N(t+\Delta t) \\
-1 \end{array} \right) 
-= 
-\left( \begin{array}{ccc} 
-I & I \Delta t & 0 \\ 
--(K \circ L) \Delta t & (1-\alpha \Delta t)I & \Psi \Delta t \\ 
-0&0&1 \end{array} \right)
-\left( \begin{array}{ccc}
-\theta_1(t) \\
-\theta_2(t) \\
-\vdots \\
-\theta_N(t) \\
-\dot{\theta}_1(t) \\
-\dot{\theta}_2(t) \\
-\vdots \\
-\dot{\theta}_N(t) \\
-1 \end{array} \right) \]
-Let $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...,\dot{\theta}_N,1\} $ be the state vector of the system at time t :
-	\[ Y(t+\Delta t) = A Y(t) \]
-\end{frame}
+%\begin{frame}
+%	\frametitle{In matrix form}
+%	\begin{small}
+%	\begin{itemize}
+%		\item Small angle differences : $sin(\theta_j - \theta_i) \sim \theta_j - \theta_i $
+%		\item Dynamics can be written in matrix form :
+%	\end{itemize}
+%	\end{small}
+%	\[ \left( \begin{array}{ccc}
+%\theta_1(t+\Delta t) \\
+%\theta_2(t+\Delta t) \\
+%\vdots \\
+%\theta_N(t+\Delta t) \\
+%\dot{\theta}_1(t+\Delta t) \\
+%\dot{\theta}_2(t+\Delta t) \\
+%\vdots \\
+%\dot{\theta}_N(t+\Delta t) \\
+%1 \end{array} \right) 
+%= 
+%\left( \begin{array}{ccc} 
+%I & I \Delta t & 0 \\ 
+%-(K \circ L) \Delta t & (1-\alpha \Delta t)I & \Psi \Delta t \\ 
+%0&0&1 \end{array} \right)
+%\left( \begin{array}{ccc}
+%\theta_1(t) \\
+%\theta_2(t) \\
+%\vdots \\
+%\theta_N(t) \\
+%\dot{\theta}_1(t) \\
+%\dot{\theta}_2(t) \\
+%\vdots \\
+%\dot{\theta}_N(t) \\
+%1 \end{array} \right) \]
+%Let $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...,\dot{\theta}_N,1\} $ be the state vector of the system at time t :
+%	\[ Y(t+\Delta t) = A Y(t) \]
+%\end{frame}
 
 \section{Control}
 \begin{frame}
@@ -357,7 +408,7 @@ Let $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...
 	What is the link between submodular set functions and controllability ?
 	\begin{itemize}
 		\item Let $B_S$ be matrix B when driver set is S
-		\item $W_S $ : Gramain of system $ (A,B_S) $ 	
+		\item $W_S $ : Gramian of system $ (A,B_S) $ 	
 		\begin{itemize}
 			\item $F_{trace}:S \longrightarrow Tr[W_S] $ is modular
 			\item $F_{traceInv}:S \longrightarrow Tr[W_S^{-1}] $ is submodular
@@ -378,27 +429,31 @@ Let $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...
 \begin{frame}
 	\frametitle{Combining the pieces}
 
-	\begin{itemize}
-				\item System state at t : $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...,\dot{\theta}_N,1\} $
-				\item Dynamics : $ Y(t+\Delta t) = A Y(t) + B u(t) $
-				\item Energy : $ \mathcal{E}_{min}= \left[ x_f - A^{t_f}x_0 \right]^{T}W^{-1}(t_f)\left[ x_f - A^{t_f}x_0 \right] $
-				\item Submodular function $F(S) = Tr[W_S^{-1}]$
-	\end{itemize}
+%	\begin{itemize}
+%				\item System state at t : $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...,\dot{\theta}_N,1\} $
+%				\item Dynamics : $ Y(t+\Delta t) = A Y(t) + B u(t) $
+%				\item Energy : $ \mathcal{E}_{min}= \left[ x_f - A^{t_f}x_0 \right]^{T}W^{-1}(t_f)\left[ x_f - A^{t_f}x_0 \right] $
+%				\item Submodular function $F(S) = Tr[W_S^{-1}]$
+%	\end{itemize}
+
+	
 	
 	\begin{columns}
-		\begin{column}{.4\textwidth}
-			
-				Constraints :
-				\begin{itemize}
-					\item Flow constraints %: $ \forall (i,j) \in V^2, \forall t,\ g_{ij} \vert \theta_j(t) - \theta_i(t) \vert \leq 1 $
-					\item Synchronization constraint %: $ \Vert (L \circ P^{MAX})^{\dagger} \Psi \Vert_{\infty} \leq sin(1) $
-					\item Balance constraint %: $ \sum_{k=1}^{N}P_{S,k} = 0 $
-					\item Battery levels constraints %: $ \forall t - \frac{\Lambda(0)}{I\Omega} \leq - \sum_{k=0}^{t}u^{\star}(k) \leq \frac{\Lambda_{MAX}-\Lambda(0)}{I\Omega} $
-					\item Charge/discharge rate constraints %: $\forall t, \vert u^{\star}(t)I\Omega \vert \leq r $
-				\end{itemize}
+		\begin{column}{.5\textwidth}
+			\begin{figure}
+		\includegraphics[scale=.3]{recap}
+	\end{figure}
+%				Constraints :
+%				\begin{itemize}
+%					\item Flow constraints %: $ \forall (i,j) \in V^2, \forall t,\ g_{ij} \vert \theta_j(t) - \theta_i(t) \vert \leq 1 $
+%					\item Synchronization constraint %: $ \Vert (L \circ P^{MAX})^{\dagger} \Psi \Vert_{\infty} \leq sin(1) $
+%					\item Balance constraint %: $ \sum_{k=1}^{N}P_{S,k} = 0 $
+%					\item Battery levels constraints %: $ \forall t - \frac{\Lambda(0)}{I\Omega} \leq - \sum_{k=0}^{t}u^{\star}(k) \leq \frac{\Lambda_{MAX}-\Lambda(0)}{I\Omega} $
+%					\item Charge/discharge rate constraints %: $\forall t, \vert u^{\star}(t)I\Omega \vert \leq r $
+%				\end{itemize}
 		\end{column}
-		\begin{column}{.6\textwidth}
-			\includegraphics[scale=.3]{figure_2}
+		\begin{column}{.5\textwidth}
+			\includegraphics[scale=.27]{figure_2}
 		\end{column}
 	\end{columns}
 \end{frame}
@@ -419,6 +474,24 @@ Let $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...
 		\end{column}
 	\end{columns}
 	
+\end{frame}
+
+
+
+\begin{frame}
+	\frametitle{real topology}
+	
+	{\footnotesize European transmission power grid (1494 nodes and 2196 edges over 25 countries) \footfullcite{jensen_2015_35177}}
+	\includegraphics[scale=.165]{power_grid}
+	\includegraphics[scale=.26]{figs2}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Questions ?}
+	
+	\begin{center}
+		Thank you for your attention. Questions ?
+	\end{center}
 \end{frame}
 
 \begin{frame}
@@ -443,22 +516,6 @@ Let $ Y(t) = \{ \theta_1,\theta_2,...,\theta_N,\dot{\theta}_1,\dot{\theta}_2,...
 		\item Random power distributions and line capacities
 		\item Battery capacities are drawn from : $\mathcal{N}(\mu_{\lambda}, \sigma_{\lambda})$
 	\end{itemize}
-\end{frame}
-
-\begin{frame}
-	\frametitle{real topology}
-	
-	{\footnotesize European transmission power grid (1494 nodes and 2196 edges over 25 countries) \footfullcite{jensen_2015_35177}}
-	\includegraphics[scale=.165]{power_grid}
-	\includegraphics[scale=.26]{figs2}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Questions ?}
-	
-	\begin{center}
-		Thank you for your attention. Questions ?
-	\end{center}
 \end{frame}
 
 \end{document}

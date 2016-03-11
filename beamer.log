@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  9 MAR 2016 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.28)  11 MAR 2016 08:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2033,7 +2033,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
 
-<smart_grid.png, id=102, 508.14844pt x 513.41812pt>
+<smart_grid.png, id=98, 508.14844pt x 513.41812pt>
 File: smart_grid.png Graphic file (type png)
  <use smart_grid.png>
 Package pdftex.def Info: smart_grid.png used on input line 91.
@@ -2045,209 +2045,226 @@ Overfull \hbox (15.47366pt too wide) in paragraph at lines 91--91
 
 [2
 
- <./smart_grid.png>] (./beamer.toc) [3
+ <./smart_grid.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 119.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 119.
+ <smart_grid_3.png, id=125, 83.39958pt x 76.31712pt>
+File: smart_grid_3.png Graphic file (type png)
 
-] [4
+<use smart_grid_3.png>
+Package pdftex.def Info: smart_grid_3.png used on input line 119.
+(pdftex.def)             Requested size: 166.79874pt x 152.63385pt.
+ [3
 
-] (./beamer.toc) [5
+ <./smart_grid_3.png>]
+<prosumer.jpg, id=155, 572.73975pt x 620.3175pt>
+File: prosumer.jpg Graphic file (type jpg)
+ <use prosumer.jpg>
+Package pdftex.def Info: prosumer.jpg used on input line 145.
+(pdftex.def)             Requested size: 171.82324pt x 186.09668pt.
+ [4
+
+ <./prosumer.jpg>] (./beamer.toc) [5
 
 ] [6
 
 ]
 
-LaTeX Warning: Citation 'Dorfler2013' on page 7 undefined on input line 154.
+LaTeX Warning: Citation 'Dorfler2013' on page 7 undefined on input line 188.
 
 [7
 
 ]
-Overfull \vbox (14.87793pt too high) detected at line 171
+\g__file_internal_ior=\read3
+<<VPlayer.swf>><<no_sync_2.MP4>>
+Overfull \vbox (49.12355pt too high) detected at line 220
  []
 
 [8
 
-] <line.png, id=335, 390.86024pt x 140.9265pt>
+] <line.png, id=330, 390.86024pt x 140.9265pt>
 File: line.png Graphic file (type png)
  <use line.png>
-Package pdftex.def Info: line.png used on input line 205.
+Package pdftex.def Info: line.png used on input line 256.
 (pdftex.def)             Requested size: 175.88548pt x 63.41634pt.
 
-Overfull \hbox (21.79065pt too wide) in paragraph at lines 205--205
+Overfull \hbox (21.79065pt too wide) in paragraph at lines 256--256
 [][]  
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 205.
+(Font)              <10> on input line 256.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 205.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 205.
+(Font)              <7> on input line 256.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 205.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 256.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 205.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 205.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 256.
 
-LaTeX Warning: Citation 'Filatrella2008' on page 9 undefined on input line 205.
+LaTeX Warning: Citation 'Filatrella2008' on page 9 undefined on input line 256.
 
 
 [9
 
- <./line.png>] [10
-
-] (./beamer.toc) [11
+ <./line.png>] (./beamer.toc) [10
 
 ]
-<control.png, id=421, 355.92975pt x 110.21175pt>
+<control.png, id=390, 355.92975pt x 110.21175pt>
 File: control.png Graphic file (type png)
  <use control.png>
-Package pdftex.def Info: control.png used on input line 277.
+Package pdftex.def Info: control.png used on input line 328.
 (pdftex.def)             Requested size: 195.76196pt x 60.61664pt.
 
-<control2.png, id=422, 327.02174pt x 124.0635pt>
+<control2.png, id=391, 327.02174pt x 124.0635pt>
 File: control2.png Graphic file (type png)
  <use control2.png>
-Package pdftex.def Info: control2.png used on input line 277.
+Package pdftex.def Info: control2.png used on input line 328.
 (pdftex.def)             Requested size: 179.8625pt x 68.23512pt.
 
-Overfull \hbox (8.64485pt too wide) in paragraph at lines 277--277
+Overfull \hbox (8.64485pt too wide) in paragraph at lines 328--328
 [][]  
  []
 
 
-LaTeX Warning: Citation 'Liu2015' on page 12 undefined on input line 277.
+LaTeX Warning: Citation 'Liu2015' on page 11 undefined on input line 328.
 
-[12
+[11
 
  <./control.png> <./control2.png>]
-<trajectories.png, id=449, 339.669pt x 277.035pt>
+<trajectories.png, id=419, 339.669pt x 277.035pt>
 File: trajectories.png Graphic file (type png)
  <use trajectories.png>
-Package pdftex.def Info: trajectories.png used on input line 303.
+Package pdftex.def Info: trajectories.png used on input line 354.
 (pdftex.def)             Requested size: 101.90147pt x 83.11113pt.
 
 
-LaTeX Warning: Citation 'Summers2014' on page 13 undefined on input line 303.
+LaTeX Warning: Citation 'Summers2014' on page 12 undefined on input line 354.
 
-[13
+[12
 
- <./trajectories.png>] [14
+ <./trajectories.png>] [13
 
-] (./beamer.toc) [15
+] (./beamer.toc) [14
 
 ]
-<greedy.png, id=538, 232.4685pt x 128.8815pt>
+<greedy.png, id=506, 232.4685pt x 128.8815pt>
 File: greedy.png Graphic file (type png)
  <use greedy.png>
-Package pdftex.def Info: greedy.png used on input line 352.
+Package pdftex.def Info: greedy.png used on input line 403.
 (pdftex.def)             Requested size: 116.23396pt x 64.44058pt.
 
-<figure_1.jpg, id=539, 597.432pt x 845.0772pt>
+<figure_1.jpg, id=507, 597.432pt x 845.0772pt>
 File: figure_1.jpg Graphic file (type jpg)
  <use figure_1.jpg>
-Package pdftex.def Info: figure_1.jpg used on input line 352.
+Package pdftex.def Info: figure_1.jpg used on input line 403.
 (pdftex.def)             Requested size: 149.35764pt x 211.26878pt.
 
-Overfull \hbox (12.3856pt too wide) in paragraph at lines 352--352
+Overfull \hbox (12.3856pt too wide) in paragraph at lines 403--403
  [] 
  []
 
 
-Overfull \vbox (1.04305pt too high) detected at line 352
+Overfull \vbox (1.04305pt too high) detected at line 403
  []
 
-[16
+[15
 
  <./greedy.png> <./figure_1.jpg>]
 
-LaTeX Warning: Citation 'Summers2014' on page 17 undefined on input line 371.
+LaTeX Warning: Citation 'Summers2014' on page 16 undefined on input line 422.
 
 
-LaTeX Warning: Citation 'Krause2014' on page 17 undefined on input line 371.
+LaTeX Warning: Citation 'Krause2014' on page 16 undefined on input line 422.
 
-[17
+[16
 
-] (./beamer.toc) [18
+] (./beamer.toc) [17
 
-] <figure_2.pdf, id=622, 722.7pt x 433.62pt>
+] <recap.jpg, id=588, 528.17325pt x 539.01375pt>
+File: recap.jpg Graphic file (type jpg)
+
+<use recap.jpg>
+Package pdftex.def Info: recap.jpg used on input line 459.
+(pdftex.def)             Requested size: 158.45319pt x 161.70537pt.
+ <figure_2.pdf, id=589, 722.7pt x 433.62pt>
 File: figure_2.pdf Graphic file (type pdf)
+ <use figure_2.pdf>
+Package pdftex.def Info: figure_2.pdf used on input line 459.
+(pdftex.def)             Requested size: 195.1316pt x 117.07896pt.
 
-<use figure_2.pdf>
-Package pdftex.def Info: figure_2.pdf used on input line 404.
-(pdftex.def)             Requested size: 216.81166pt x 130.087pt.
+Overfull \hbox (23.91396pt too wide) in paragraph at lines 459--459
+[][]  
+ []
 
-Overfull \hbox (11.34839pt too wide) in paragraph at lines 404--404
+[18
+
+ <./recap.jpg> <./figure_2.pdf>] <figure_3.png, id=657, 722.7pt x 722.7pt>
+File: figure_3.png Graphic file (type png)
+
+<use figure_3.png>
+Package pdftex.def Info: figure_3.png used on input line 477.
+(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
+
+Overfull \hbox (11.34839pt too wide) in paragraph at lines 477--477
 [][]  
  []
 
 [19
 
- <./figure_2.pdf>] <figure_3.png, id=690, 722.7pt x 722.7pt>
-File: figure_3.png Graphic file (type png)
+ <./figure_3.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 487.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 487.
 
-<use figure_3.png>
-Package pdftex.def Info: figure_3.png used on input line 422.
-(pdftex.def)             Requested size: 216.81166pt x 216.81166pt.
 
-Overfull \hbox (11.34839pt too wide) in paragraph at lines 422--422
+LaTeX Warning: Citation 'jensen_2015_35177' on page 20 undefined on input line 
+487.
+
+<power_grid.pdf, id=686, 1084.05pt x 1084.05pt>
+File: power_grid.pdf Graphic file (type pdf)
+ <use power_grid.pdf>
+Package pdftex.def Info: power_grid.pdf used on input line 487.
+(pdftex.def)             Requested size: 178.86053pt x 178.86053pt.
+
+<figs2.pdf, id=687, 722.7pt x 578.16pt>
+File: figs2.pdf Graphic file (type pdf)
+ <use figs2.pdf>
+Package pdftex.def Info: figs2.pdf used on input line 487.
+(pdftex.def)             Requested size: 187.89757pt x 150.31805pt.
+
+Overfull \hbox (24.32278pt too wide) in paragraph at lines 487--487
 [][]  
  []
 
 [20
 
- <./figure_3.png>] <figure_4.pdf, id=718, 1084.05pt x 578.16pt>
-File: figure_4.pdf Graphic file (type pdf)
-
-<use figure_4.pdf>
-Package pdftex.def Info: figure_4.pdf used on input line 433.
-(pdftex.def)             Requested size: 325.21751pt x 173.44933pt.
- [21
-
- <./figure_4.pdf>]
-<figure_7.pdf, id=785, 722.7pt x 433.62pt>
-File: figure_7.pdf Graphic file (type pdf)
- <use figure_7.pdf>
-Package pdftex.def Info: figure_7.pdf used on input line 446.
-(pdftex.def)             Requested size: 216.81166pt x 130.087pt.
- [22
-
- <./figure_7.pdf>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 454.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 454.
-
-
-LaTeX Warning: Citation 'jensen_2015_35177' on page 23 undefined on input line 
-454.
-
-<power_grid.pdf, id=855, 1084.05pt x 1084.05pt>
-File: power_grid.pdf Graphic file (type pdf)
- <use power_grid.pdf>
-Package pdftex.def Info: power_grid.pdf used on input line 454.
-(pdftex.def)             Requested size: 178.86053pt x 178.86053pt.
-
-<figs2.pdf, id=856, 722.7pt x 578.16pt>
-File: figs2.pdf Graphic file (type pdf)
- <use figs2.pdf>
-Package pdftex.def Info: figs2.pdf used on input line 454.
-(pdftex.def)             Requested size: 187.89757pt x 150.31805pt.
-
-Overfull \hbox (24.32278pt too wide) in paragraph at lines 454--454
-[][]  
- []
-
-[23
-
  <./power_grid.pdf> <./figs2.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figs2.pdf): PDF inclusion: multiple pdfs w
 ith page group included in a single page
->]
-Package atenddvi Info: Last page = 24.
- [24
+>] [21
 
-]
+] <figure_4.pdf, id=820, 1084.05pt x 578.16pt>
+File: figure_4.pdf Graphic file (type pdf)
+ <use figure_4.pdf>
+Package pdftex.def Info: figure_4.pdf used on input line 506.
+(pdftex.def)             Requested size: 325.21751pt x 173.44933pt.
+
+[22
+
+ <./figure_4.pdf>] <figure_7.pdf, id=885, 722.7pt x 433.62pt>
+File: figure_7.pdf Graphic file (type pdf)
+
+<use figure_7.pdf>
+Package pdftex.def Info: figure_7.pdf used on input line 519.
+(pdftex.def)             Requested size: 216.81166pt x 130.087pt.
+Package atenddvi Info: Last page = 23.
+ [23
+
+ <./figure_7.pdf>]
 \tf@nav=\write7
 \openout7 = `beamer.nav'.
 
@@ -2257,13 +2274,13 @@ Package atenddvi Info: Last page = 24.
 \tf@snm=\write9
 \openout9 = `beamer.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 464.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 464.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 521.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 521.
  (./beamer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 464.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 464.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 521.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 521.
 Package rerunfilecheck Info: File `beamer.out' has not changed.
-(rerunfilecheck)             Checksum: AC3591B6B5B657DCEC8EDB2302C5574E;240.
+(rerunfilecheck)             Checksum: 0976BB63D1C6ED92647AC88D01ED239B;197.
 
 
 LaTeX Warning: There were undefined references.
@@ -2276,20 +2293,20 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'beamer.run.xml'.
 \openout1 = `beamer.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 464.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 521.
  ) 
 Here is how much of TeX's memory you used:
- 39350 strings out of 493054
- 794060 string characters out of 6138326
- 1227293 words of memory out of 5000000
- 42066 multiletter control sequences out of 15000+600000
+ 39362 strings out of 493054
+ 794304 string characters out of 6138326
+ 1225293 words of memory out of 5000000
+ 42076 multiletter control sequences out of 15000+600000
  83009 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,78p,10349b,2130s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2015
 /texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2015/texmf-dist/fonts/
-enc/dvips/lm/lm-ec.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}<c:/texlive/2015/
+enc/dvips/lm/lm-ec.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathex
+.enc}{c:/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<c:/texlive/2015/
 texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2015/texmf-dist/fonts/t
 ype1/public/lm/lmmi10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmm
 i5.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><c:/texlive/
@@ -2305,10 +2322,10 @@ ype1/public/lm/lmsy6.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy
 7.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2
 015/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2015/texmf-dist/font
 s/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on beamer.pdf (24 pages, 2522362 bytes).
+Output written on beamer.pdf (23 pages, 6272877 bytes).
 PDF statistics:
- 1072 PDF objects out of 1200 (max. 8388607)
- 817 compressed objects within 9 object streams
- 54 named destinations out of 1000 (max. 500000)
- 352 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1039 PDF objects out of 1200 (max. 8388607)
+ 780 compressed objects within 8 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 

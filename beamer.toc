@@ -4,12 +4,10 @@
 \defcounter {refsection}{0}\relax 
 \select@language {french}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {1}{Scenario}{4}{0}{1}
+\beamer@sectionintoc {1}{Kuramoto Model}{6}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {2}{Kuramoto Model}{5}{0}{2}
+\beamer@sectionintoc {2}{Control}{10}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Control}{11}{0}{3}
+\beamer@sectionintoc {3}{submodular set functions}{14}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{submodular set functions}{15}{0}{4}
-\defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {5}{Some results}{18}{0}{5}
+\beamer@sectionintoc {4}{Some results}{17}{0}{4}
